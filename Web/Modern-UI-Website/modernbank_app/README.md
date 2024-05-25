@@ -1,8 +1,27 @@
-# React + Vite
+# HooBank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit our HooBank site - [Click Here](https://hoobank-teamshinobi.netlify.app/)
 
-Currently, two official plugins are available:
+HooBank is the Modern Payment method which is more secure and reliable.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I've made the UI of the HooBank using React and Tailwindcss
+
+Here are some screenshot of the website:
+
+- Main Section
+![Main](image.png)
+
+- Business Section
+![Business](image-1.png)
+
+- Billing Section
+![Billing](image-2.png)
+
+- Card Section
+![Card](image-3.png)
+
+- Testimonials
+![Testimonials](image-4.png)
+
+- Footer
+![Footer](image-5.png)
