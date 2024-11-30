@@ -50,7 +50,6 @@ const About = () => {
           />
         </div>
       </div>
-      About
     </div>
   );
 };
