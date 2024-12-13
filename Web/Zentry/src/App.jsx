@@ -3,6 +3,9 @@ import Hero from './components/Hero'
 import About from './components/About'
 import Navbar from './components/Navbar'
 import Features from "./components/Features.jsx";
+import Story from './components/Story.jsx';
+import Contact from './components/Contact.jsx';
+import Footer from './components/Footer.jsx';
 
 const App = () => {
     return (
@@ -14,6 +17,9 @@ const App = () => {
 
             <About />
             <Features />
+            <Story />
+            <Contact />
+            <Footer />
         </main>
     )
 }
